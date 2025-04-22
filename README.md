@@ -18,10 +18,10 @@
 <p><strong>🚀 Skills:</strong></p>
 
 <ul>
-  <li>💻 Java, Spring Boot</li>
+  <li>💻 Java</li>
   <li>🌐 React, TypeScript</li>
   <li>🛠️ Git, GitHub, IntelliJ</li>
-  <li>🗃️ MySQL, Oracle, PostgreSQL</li>
+  <li>🗃️ MySQL, Oracle</li>
 </ul>
 
 <p><strong>📫 Contato:</strong></p>
