@@ -7,9 +7,9 @@
 <pre>
 <code>
 <span style="color:#569CD6;">public class</span> <span style="color:#4EC9B0;">Desenvolvedor</span> {
-  <span style="color:#9CDCFE;">private nome</span> = <span style="color:#CE9178;">"Leonardo"</span>;
-  <span style="color:#9CDCFE;">private area</span> = <span style="color:#CE9178;">"Back-end"</span>;
-  <span style="color:#9CDCFE;">private local</span> = <span style="color:#CE9178;">"São Paulo - SP"</span>;
+  <span style="color:#9CDCFE;">nome</span> = <span style="color:#CE9178;">"Leonardo"</span>;
+  <span style="color:#9CDCFE;">area</span> = <span style="color:#CE9178;">"Back-end"</span>;
+  <span style="color:#9CDCFE;">local</span> = <span style="color:#CE9178;">"São Paulo - SP"</span>;
 }
 </code>
 </pre>
