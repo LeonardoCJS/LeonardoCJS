@@ -19,7 +19,7 @@
 
 <ul>
   <li>💻 Java</li>
-  <li>🌐 React, TypeScript</li>
+  <li>🌐 SpringBoot, Hipernate</li>
   <li>🛠️ Git, GitHub, IntelliJ</li>
   <li>🗃️ MySQL, Oracle</li>
 </ul>
